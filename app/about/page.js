@@ -1,0 +1,1 @@
+export default function A(){return(<div className='container'><h2>About Us</h2><p>We review elite gadgets.</p></div>)}

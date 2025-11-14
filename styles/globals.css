@@ -1,0 +1,8 @@
+
+body{background:#000;color:#ddd;font-family:Arial;margin:0;}
+header,footer{background:#111;color:#f0c060;padding:20px;text-align:center;}
+a{color:#f0c060;text-decoration:none;}
+.container{max-width:900px;margin:auto;padding:20px;}
+.hero{padding:80px 20px;text-align:center;background:#111;border-bottom:1px solid #333;}
+.slider{display:flex;gap:20px;overflow-x:auto;padding:20px;}
+.slide{min-width:200px;background:#111;padding:10px;border-radius:8px;}

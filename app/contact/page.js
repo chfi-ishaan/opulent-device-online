@@ -1,0 +1,1 @@
+export default function C(){return(<div className='container'><h2>Contact</h2><p>Email: support@opulentdevices.com</p></div>)}
