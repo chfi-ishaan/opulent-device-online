@@ -1,6 +1,7 @@
 
 import Link from 'next/link'
-import AdUnit from '@/components/AdUnit'
+import AdUnit from '../../components/AdUnit'
+
 
 export async function generateStaticParams(){
  return [...Array(50)].map((_,i)=>({id:(i+1).toString()}))
